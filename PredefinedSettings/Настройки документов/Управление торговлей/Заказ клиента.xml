@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<PurchaseOrder PurchaseOrderNumber="99503" OrderDate="1999-10-20">
+<PurchaseOrder PurchaseOrderNumber="99503" OrderDate="1999-10-21">
   <Address Type="Shipping">
     <Name>Ellen Adams</Name>
     <Street>123 Maple Street</Street>
